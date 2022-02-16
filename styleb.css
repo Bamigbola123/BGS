@@ -201,3 +201,8 @@ h1{
     width: 150px;
     border-radius: 15px;
 }
+
+.contact {
+    background-color: aqua;
+    width: 100%;
+}
