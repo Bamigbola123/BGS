@@ -208,3 +208,38 @@ h1{
     background-color: aqua;
     width: 100%;
 }
+
+
+@media only screen and (max-width:700px) {
+
+    .product-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 5px;
+        row-gap: 5px;
+        border-radius: 2px;
+    }
+
+    .profile-container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        column-gap: 5px;
+        row-gap: 5px;
+        padding: 0 1rem;
+        border-radius: 2px;
+    }   
+
+    .vi{
+        /* background-color: #1BA160; */
+        font-size: 20px;
+        margin-left: 50px;
+        margin-bottom: none;
+        padding: 3px;
+        width: 50px;
+        text-align: relative;
+        border-radius: 2px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+
+
+}
