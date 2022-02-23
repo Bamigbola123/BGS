@@ -76,11 +76,12 @@ body{
 
 button{
     padding: 9px 25px;
-    background-color: greenyellow;
+    background-color: #1BA160;
     border: none;
     border-radius: 50px;
     cursor: pointer;
     transition: all 0.3s ease 0s;
+    color: #f2f7f8;
 }
 
 button:hover{
@@ -90,8 +91,8 @@ button:hover{
 
 
 .vision {
-    background-color: #98EDC3;
-    text-align: center;
+    /* background-color: #98EDC3; */
+    text-align: relative;
     width: 100%;
     align-self: center;
     font-family: 'Montserrat';
@@ -99,12 +100,13 @@ button:hover{
 }
 
 .vi{
-    background-color: #1BA160;
+    /* background-color: #1BA160; */
     font-size: 30px;
     margin-left: 500px;
+    margin-bottom: none;
     padding: 10px;
     width: 200px;
-    text-align: center;
+    text-align: relative;
     border-radius: 5px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
