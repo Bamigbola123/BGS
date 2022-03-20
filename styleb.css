@@ -212,6 +212,12 @@ h1{
 
 @media only screen and (max-width:900px) {
 
+    .link_container li{
+        display: none;
+    }
+
+
+
     .product-container{
         display: grid;
         grid-template-columns: 1fr;
