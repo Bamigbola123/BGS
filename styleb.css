@@ -40,12 +40,13 @@ body{
 
 .logo{
     cursor: pointer;
-    height: 5rem;
-    width: 9rem;
+    height: 4rem;
+    width: 8rem;
     font-weight:bolder;
     margin-left: 90px;
     margin-right: 250px;
     padding-top: 15px;
+    position: static;
 }
 
 
