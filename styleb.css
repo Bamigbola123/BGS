@@ -155,7 +155,7 @@ h1{
 
 .product-container{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     column-gap: 20px;
     row-gap: 20px;
     border-radius: 5px;
@@ -197,10 +197,10 @@ h1{
 
 .profile-container{
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
-    column-gap: 20px;
-    row-gap: 20px;
-    padding: 0 1rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 40px;
+    row-gap: 15px;
+    padding: 0.1rem;
     border-radius: 5px;
 }
 
@@ -217,7 +217,7 @@ h1{
     border-radius: 15px;
 }
 
-.contactUs{
+/* #con{
     background-color: aqua;
     width: 100%;
     margin-left: 300px;
@@ -225,12 +225,14 @@ h1{
 
 .abccc{
     size: 100%;
+    align-content: center;
+    margin-left: 400px;
 }
 
 
-#contactUs-container{
-    display: inline-block;
-    font-size: 44px;
+#con-con{
+    display: block;
+    font-size: 30px;
     animation: float 5s ease-in-out infinite;
     justify-content: center;
     margin-left: 50px;
@@ -260,7 +262,7 @@ h1{
     }
 
 
-}
+} */
 
 
 @media only screen and (max-width:900px) {
