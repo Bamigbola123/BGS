@@ -269,8 +269,8 @@ h1{
 
     .logo{
         position: autofill;
-        padding-left: 1rem;
-        margin-left: 7rem;
+        padding-left: 3rem;
+        margin-left: 17rem;
 
     }
 
@@ -363,7 +363,7 @@ h1{
 
     .logo{
         position: autofill;
-        padding-left: 2rem;
+        padding-left: 0px;
         margin-left: 9rem;
 
     }
